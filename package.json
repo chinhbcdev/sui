@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/cssinjs": "^1.17.2",
+    "@suiet/wallet-kit": "^0.2.20",
     "antd": "^5.10.2",
     "next": "14.0.0",
     "react": "^18",
